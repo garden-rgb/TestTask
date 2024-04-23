@@ -1,0 +1,14 @@
+D:\TestTask\TestTask.Data\bin\Debug\net8.0\TestTask.Data.deps.json
+D:\TestTask\TestTask.Data\bin\Debug\net8.0\TestTask.Data.runtimeconfig.json
+D:\TestTask\TestTask.Data\bin\Debug\net8.0\TestTask.Data.dll
+D:\TestTask\TestTask.Data\bin\Debug\net8.0\TestTask.Data.pdb
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.csproj.AssemblyReference.cache
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.AssemblyInfoInputs.cache
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.AssemblyInfo.cs
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.csproj.CoreCompileInputs.cache
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.dll
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\refint\TestTask.Data.dll
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.pdb
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\TestTask.Data.genruntimeconfig.cache
+D:\TestTask\TestTask.Data\obj\Debug\net8.0\ref\TestTask.Data.dll

@@ -1,0 +1,15 @@
+D:\TestTask\TestTask.Business\bin\Debug\net8.0\TestTask.Business.deps.json
+D:\TestTask\TestTask.Business\bin\Debug\net8.0\TestTask.Business.dll
+D:\TestTask\TestTask.Business\bin\Debug\net8.0\TestTask.Business.pdb
+D:\TestTask\TestTask.Business\bin\Debug\net8.0\TestTask.Data.dll
+D:\TestTask\TestTask.Business\bin\Debug\net8.0\TestTask.Data.pdb
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.csproj.AssemblyReference.cache
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.AssemblyInfoInputs.cache
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.AssemblyInfo.cs
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.csproj.CoreCompileInputs.cache
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.A59EE8FB.Up2Date
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.dll
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\refint\TestTask.Business.dll
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\TestTask.Business.pdb
+D:\TestTask\TestTask.Business\obj\Debug\net8.0\ref\TestTask.Business.dll
